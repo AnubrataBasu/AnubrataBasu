@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnubrataBasu
 - 👀 I’m interested in UX, UI, Web development, Web design, and Data anlytics
 - 🌱 I’m currently learning Web design and UX
-- 💞️ I’m looking to collaborate on internship pr0jects
+- 💞️ I’m looking to collaborate on internship projects
 
 
 <!---
